@@ -1,13 +1,15 @@
 # Neural Network to classify marine life
 
-## Step 1
+Multiclass classifier to identify fish species in underwater pictures:
 
-Binary classifier to tell wether a clown fish is present in the image.
+Clown fish
 
-True
+![alt text](img/clown/clown010.png "Clown Fish")
 
-![alt text](img/clown/clown001.png "Clown Fish")
+Shark
 
-False
+![alt tet](img/shark/shark001.png "Shark")
 
-![alt text](img/reef/reef001.png "Reef")
+Reef/others
+
+![alt tet](img/reef/reef003.png "Shark")
