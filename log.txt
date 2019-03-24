@@ -3,3 +3,4 @@
 87.70% accuracy for model 20180713_19h33
 76.55% accuracy for model 20180716_20h21
 79.31% accuracy for model 20180717_13h39
+77.44% accuracy for model 20190324_13h08
